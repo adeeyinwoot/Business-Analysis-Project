@@ -27,7 +27,8 @@ The project aims to deliver an efficient, technology-driven solution to address 
 🔹 Conducting a cost-benefit analysis
 
 ## AS IS PROCESS
-- <a href="https://github.com/adeeyinwoot/Business-Analysis-Project/blob/main/AS-IS%20PROCESS.docx”>AS IS PROCESS</a>
+-<a href="https://github.com/adeeyinwoot/Business-Analysis-Project/blob/main/AS-IS%20PROCESS.docx">AS IS PROCESS</a>
+
 
 
 
