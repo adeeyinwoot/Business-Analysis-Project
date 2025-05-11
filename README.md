@@ -27,11 +27,13 @@ The project aims to deliver an efficient, technology-driven solution to address 
 🔹 Conducting a cost-benefit analysis
 
 ## AS IS PROCESS
--<a href="https://github.com/adeeyinwoot/Business-Analysis-Project/blob/main/AS-IS%20PROCESS.docx">AS IS PROCESS</a>
+-<a href="https://github.com/adeeyinwoot/Business-Analysis-Project/blob/main/AS-IS%20PROCESS.docx">AS-IS-PROCESS</a>
 
+## TO BE PROCESS
+- <a href="https://github.com/adeeyinwoot/Business-Analysis-Project/blob/main/TO-BE%20PROCESS.docx">TO-BE-PROCESS
 
-
-
+ ## User Stories
+-<a href="https://github.com/adeeyinwoot/Business-Analysis-Project/blob/main/USER%20STORIES.docx">User Stories
 
 ## Business Requirement Document
 - <a href="https://github.com/adeeyinwoot/Business-Analysis-Project/blob/main/Business%20Requirement%20Document.docx">Business Requirement Document</a>
