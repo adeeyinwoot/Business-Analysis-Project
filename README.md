@@ -40,3 +40,7 @@ The project aims to deliver an efficient, technology-driven solution to address 
 
 ## Business Requirement Document
 <a href="https://github.com/adeeyinwoot/Business-Analysis-Project/blob/main/Business%20Requirement%20Document.docx">Business Requirement Document</a>
+
+## Conclusion
+By streamlining ordering, integrating with HR and payroll systems, and providing real-time insights, this solution will significantly improve Unilever canteen efficiency, boost employee satisfaction, and reduce manual workloads.
+With a phased rollout and strong change management, it promises measurable operational and financial benefits.
