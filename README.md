@@ -32,7 +32,10 @@ The project aims to deliver an efficient, technology-driven solution to address 
 ## TO BE PROCESS
 - <a href="https://github.com/adeeyinwoot/Business-Analysis-Project/blob/main/TO-BE%20PROCESS.docx">TO-BE-PROCESS
 
- ## User Stories
+## Stakeholder Analysis
+-<a href="https://github.com/adeeyinwoot/Business-Analysis-Project/blob/main/Stakeholder%20Analysis.docx"> Stakeholder Anslysis
+
+## User Stories
 -<a href="https://github.com/adeeyinwoot/Business-Analysis-Project/blob/main/USER%20STORIES.docx"> User Stories
 
 ## Business Requirement Document
