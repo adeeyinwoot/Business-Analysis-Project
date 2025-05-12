@@ -33,7 +33,7 @@ The project aims to deliver an efficient, technology-driven solution to address 
 - <a href="https://github.com/adeeyinwoot/Business-Analysis-Project/blob/main/TO-BE%20PROCESS.docx">TO-BE-PROCESS
 
  ## User Stories
--<a href="https://github.com/adeeyinwoot/Business-Analysis-Project/blob/main/USER%20STORIES.docx">User Stories
+-<a href="https://github.com/adeeyinwoot/Business-Analysis-Project/blob/main/USER%20STORIES.docx"> User Stories
 
 ## Business Requirement Document
 - <a href="https://github.com/adeeyinwoot/Business-Analysis-Project/blob/main/Business%20Requirement%20Document.docx">Business Requirement Document</a>
